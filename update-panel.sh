@@ -1,6 +1,6 @@
 
 # Set URLs and file paths
-repoLink="https://github.com/rocket-ap/rocket-ssh/raw/master/app.zip"
+repoLink="https://github.com/farzadkhalilazad/rocket-ssh/raw/master/app.zip"
 
 originalEnvFile="/var/www/html/panel/.env"
 pathDir="/var/www/html"
